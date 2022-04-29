@@ -4,6 +4,6 @@ This is a repo for reimplementing some results in paper: [Solving Min-Max Optimi
 
 
 
-![vanilla gan](Figures/l2 norm.png)
+[vanilla gan](Figures/l2 norm.png)
 
-![weight decay](Figures/gan weight decay.png)
+[weight decay](Figures/gan weight decay.png)
