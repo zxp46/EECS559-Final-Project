@@ -4,6 +4,6 @@ This is a repo for reimplementing some results in paper: [Solving Min-Max Optimi
 
 
 
-![vanilla gan](https://github.com/zxp46/EECS559-Final-Project/tree/main/Figures/l2 norm.png)
+![vanilla gan](https://github.com/zxp46/EECS559-Final-Project/tree/main/Figures/l2_norm.png)
 
-![weight decay](https://github.com/zxp46/EECS559-Final-Project/tree/main/Figures/gan weight decay.png)
+![weight decay](https://github.com/zxp46/EECS559-Final-Project/tree/main/Figures/gan_weight_decay.png)
